@@ -1,6 +1,6 @@
 # SCUT-EnsExam Release
 SCUT-EnsExam is a real-world handwritten text erasure dataset for examination paper scenarios, which consists of 545 examination paper images. The dataset is randomly divided into training set and test set of 430 and 115 images, respectively. SCUT-EnsExam is now released by the Deep Learning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
-- [Baidu Cloud](https://pan.baidu.com/s/11b0SQF8YyHrov11Jlfdq-A)(Size=1.14G)
+- [Baidu Cloud](https://pan.baidu.com/s/11b0SQF8YyHrov11Jlfdq-A) (Size=1.14G)
 - [Google Drive](https://drive.google.com/file/d/1euZuAJ1JVhPcaRT_5EOvSxaTf09qGqvm/view?usp=sharing) (Size=1.14G)
 
 The The SCUT-EnsExam dataset is available for **non-commercial research purposes only**. To request access, please follow these steps:
